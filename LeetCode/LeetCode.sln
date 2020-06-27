@@ -15,6 +15,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "twoSum", "twoSum\twoSum.vcx
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "nthTribonacciNumber", "nthTribonacciNumber\nthTribonacciNumber.vcxproj", "{82CC95F5-8770-4329-8622-1CD2323FB8A1}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "longestSubstringWithoutRepeatingCharacters", "longestSubstringWithoutRepeatingCharacters\longestSubstringWithoutRepeatingCharacters.vcxproj", "{9F9BD01F-AB1F-4999-84A9-3FAA567DFA3C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|ARM = Debug|ARM
@@ -111,6 +113,18 @@ Global
 		{82CC95F5-8770-4329-8622-1CD2323FB8A1}.Release|x64.Build.0 = Release|x64
 		{82CC95F5-8770-4329-8622-1CD2323FB8A1}.Release|x86.ActiveCfg = Release|Win32
 		{82CC95F5-8770-4329-8622-1CD2323FB8A1}.Release|x86.Build.0 = Release|Win32
+		{9F9BD01F-AB1F-4999-84A9-3FAA567DFA3C}.Debug|ARM.ActiveCfg = Debug|Win32
+		{9F9BD01F-AB1F-4999-84A9-3FAA567DFA3C}.Debug|ARM64.ActiveCfg = Debug|Win32
+		{9F9BD01F-AB1F-4999-84A9-3FAA567DFA3C}.Debug|x64.ActiveCfg = Debug|x64
+		{9F9BD01F-AB1F-4999-84A9-3FAA567DFA3C}.Debug|x64.Build.0 = Debug|x64
+		{9F9BD01F-AB1F-4999-84A9-3FAA567DFA3C}.Debug|x86.ActiveCfg = Debug|Win32
+		{9F9BD01F-AB1F-4999-84A9-3FAA567DFA3C}.Debug|x86.Build.0 = Debug|Win32
+		{9F9BD01F-AB1F-4999-84A9-3FAA567DFA3C}.Release|ARM.ActiveCfg = Release|Win32
+		{9F9BD01F-AB1F-4999-84A9-3FAA567DFA3C}.Release|ARM64.ActiveCfg = Release|Win32
+		{9F9BD01F-AB1F-4999-84A9-3FAA567DFA3C}.Release|x64.ActiveCfg = Release|x64
+		{9F9BD01F-AB1F-4999-84A9-3FAA567DFA3C}.Release|x64.Build.0 = Release|x64
+		{9F9BD01F-AB1F-4999-84A9-3FAA567DFA3C}.Release|x86.ActiveCfg = Release|Win32
+		{9F9BD01F-AB1F-4999-84A9-3FAA567DFA3C}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,5 @@
+﻿  longestSubstringWithoutRepeatingCharacters.cpp
+D:\Documents\Leetcode\LeetCode_New\LeetCode\longestSubstringWithoutRepeatingCharacters\longestSubstringWithoutRepeatingCharacters.cpp(26,27): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\Leetcode\LeetCode_New\LeetCode\longestSubstringWithoutRepeatingCharacters\longestSubstringWithoutRepeatingCharacters.cpp(34,35): warning C4018: '>': signed/unsigned mismatch
+D:\Documents\Leetcode\LeetCode_New\LeetCode\longestSubstringWithoutRepeatingCharacters\longestSubstringWithoutRepeatingCharacters.cpp(43,17): warning C4018: '<': signed/unsigned mismatch
+  longestSubstringWithoutRepeatingCharacters.vcxproj -> D:\Documents\Leetcode\LeetCode_New\LeetCode\Debug\longestSubstringWithoutRepeatingCharacters.exe
