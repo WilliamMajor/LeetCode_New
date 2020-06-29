@@ -2,4 +2,9 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/LeetCode/.vs/LeetCode/v16/ipch/AutoPCH
+/LeetCode/.vs/*
+/LeetCode/Debug/*
+/LeetCode/*/Debug
+
+
+
