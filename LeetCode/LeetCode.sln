@@ -21,6 +21,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "underGroundSystem", "underG
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "findLucky", "findLucky\findLucky.vcxproj", "{80ED40F5-B266-494A-8B53-C4749CC5C4D6}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "hasAllCodes", "hasAllCodes\hasAllCodes.vcxproj", "{D32AA57A-F84F-46E9-9532-D1CC120D7AB6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|ARM = Debug|ARM
@@ -151,6 +153,18 @@ Global
 		{80ED40F5-B266-494A-8B53-C4749CC5C4D6}.Release|x64.Build.0 = Release|x64
 		{80ED40F5-B266-494A-8B53-C4749CC5C4D6}.Release|x86.ActiveCfg = Release|Win32
 		{80ED40F5-B266-494A-8B53-C4749CC5C4D6}.Release|x86.Build.0 = Release|Win32
+		{D32AA57A-F84F-46E9-9532-D1CC120D7AB6}.Debug|ARM.ActiveCfg = Debug|Win32
+		{D32AA57A-F84F-46E9-9532-D1CC120D7AB6}.Debug|ARM64.ActiveCfg = Debug|Win32
+		{D32AA57A-F84F-46E9-9532-D1CC120D7AB6}.Debug|x64.ActiveCfg = Debug|x64
+		{D32AA57A-F84F-46E9-9532-D1CC120D7AB6}.Debug|x64.Build.0 = Debug|x64
+		{D32AA57A-F84F-46E9-9532-D1CC120D7AB6}.Debug|x86.ActiveCfg = Debug|Win32
+		{D32AA57A-F84F-46E9-9532-D1CC120D7AB6}.Debug|x86.Build.0 = Debug|Win32
+		{D32AA57A-F84F-46E9-9532-D1CC120D7AB6}.Release|ARM.ActiveCfg = Release|Win32
+		{D32AA57A-F84F-46E9-9532-D1CC120D7AB6}.Release|ARM64.ActiveCfg = Release|Win32
+		{D32AA57A-F84F-46E9-9532-D1CC120D7AB6}.Release|x64.ActiveCfg = Release|x64
+		{D32AA57A-F84F-46E9-9532-D1CC120D7AB6}.Release|x64.Build.0 = Release|x64
+		{D32AA57A-F84F-46E9-9532-D1CC120D7AB6}.Release|x86.ActiveCfg = Release|Win32
+		{D32AA57A-F84F-46E9-9532-D1CC120D7AB6}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
