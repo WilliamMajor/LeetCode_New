@@ -15,7 +15,8 @@ int main()
 }
 
 
-    int lengthOfLongestSubstring(string s) {
+    int lengthOfLongestSubstring(string s) 
+    {
         int mm[128] = { 0 };
         int rv = 0;
         int start = 0;
@@ -34,4 +35,3 @@ int main()
 
         return rv;
     }
-};

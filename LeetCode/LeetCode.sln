@@ -31,6 +31,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ManualStringToInteger", "Ma
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FindTheDifference", "FindTheDifference\FindTheDifference.vcxproj", "{8E696D31-EDDE-4332-8FE2-2970E5F6F93E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DistanceFromCenter", "DistanceFromCenter\DistanceFromCenter.vcxproj", "{98189C63-8937-46FF-89A3-F17CC8BE8D85}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|ARM = Debug|ARM
@@ -221,6 +223,18 @@ Global
 		{8E696D31-EDDE-4332-8FE2-2970E5F6F93E}.Release|x64.Build.0 = Release|x64
 		{8E696D31-EDDE-4332-8FE2-2970E5F6F93E}.Release|x86.ActiveCfg = Release|Win32
 		{8E696D31-EDDE-4332-8FE2-2970E5F6F93E}.Release|x86.Build.0 = Release|Win32
+		{98189C63-8937-46FF-89A3-F17CC8BE8D85}.Debug|ARM.ActiveCfg = Debug|Win32
+		{98189C63-8937-46FF-89A3-F17CC8BE8D85}.Debug|ARM64.ActiveCfg = Debug|Win32
+		{98189C63-8937-46FF-89A3-F17CC8BE8D85}.Debug|x64.ActiveCfg = Debug|x64
+		{98189C63-8937-46FF-89A3-F17CC8BE8D85}.Debug|x64.Build.0 = Debug|x64
+		{98189C63-8937-46FF-89A3-F17CC8BE8D85}.Debug|x86.ActiveCfg = Debug|Win32
+		{98189C63-8937-46FF-89A3-F17CC8BE8D85}.Debug|x86.Build.0 = Debug|Win32
+		{98189C63-8937-46FF-89A3-F17CC8BE8D85}.Release|ARM.ActiveCfg = Release|Win32
+		{98189C63-8937-46FF-89A3-F17CC8BE8D85}.Release|ARM64.ActiveCfg = Release|Win32
+		{98189C63-8937-46FF-89A3-F17CC8BE8D85}.Release|x64.ActiveCfg = Release|x64
+		{98189C63-8937-46FF-89A3-F17CC8BE8D85}.Release|x64.Build.0 = Release|x64
+		{98189C63-8937-46FF-89A3-F17CC8BE8D85}.Release|x86.ActiveCfg = Release|Win32
+		{98189C63-8937-46FF-89A3-F17CC8BE8D85}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
