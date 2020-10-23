@@ -35,6 +35,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DistanceFromCenter", "Dista
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "removeDuplicates", "removeDuplicates\removeDuplicates.vcxproj", "{204F567C-5883-443C-A636-1361A9B1AC12}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MedianOfTwoSortedArrays", "MedianOfTwoSortedArrays\MedianOfTwoSortedArrays.vcxproj", "{063FBB7E-5844-4188-820B-28E3059E867F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|ARM = Debug|ARM
@@ -249,6 +251,18 @@ Global
 		{204F567C-5883-443C-A636-1361A9B1AC12}.Release|x64.Build.0 = Release|x64
 		{204F567C-5883-443C-A636-1361A9B1AC12}.Release|x86.ActiveCfg = Release|Win32
 		{204F567C-5883-443C-A636-1361A9B1AC12}.Release|x86.Build.0 = Release|Win32
+		{063FBB7E-5844-4188-820B-28E3059E867F}.Debug|ARM.ActiveCfg = Debug|Win32
+		{063FBB7E-5844-4188-820B-28E3059E867F}.Debug|ARM64.ActiveCfg = Debug|Win32
+		{063FBB7E-5844-4188-820B-28E3059E867F}.Debug|x64.ActiveCfg = Debug|x64
+		{063FBB7E-5844-4188-820B-28E3059E867F}.Debug|x64.Build.0 = Debug|x64
+		{063FBB7E-5844-4188-820B-28E3059E867F}.Debug|x86.ActiveCfg = Debug|Win32
+		{063FBB7E-5844-4188-820B-28E3059E867F}.Debug|x86.Build.0 = Debug|Win32
+		{063FBB7E-5844-4188-820B-28E3059E867F}.Release|ARM.ActiveCfg = Release|Win32
+		{063FBB7E-5844-4188-820B-28E3059E867F}.Release|ARM64.ActiveCfg = Release|Win32
+		{063FBB7E-5844-4188-820B-28E3059E867F}.Release|x64.ActiveCfg = Release|x64
+		{063FBB7E-5844-4188-820B-28E3059E867F}.Release|x64.Build.0 = Release|x64
+		{063FBB7E-5844-4188-820B-28E3059E867F}.Release|x86.ActiveCfg = Release|Win32
+		{063FBB7E-5844-4188-820B-28E3059E867F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
